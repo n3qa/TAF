@@ -1,0 +1,5 @@
+{
+  "url": "https://crm.n3qa.com/signin",
+  "browser": "chrome",
+  "button": "//a[contains(text(),'n3qa')]"
+}
